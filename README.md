@@ -17,6 +17,8 @@
 ## step3：删除不需要的截图 delete_tmp_pics()
 	
 ## step4：把数组 list_im 置空 update_imgs_list()
-*注意这里数组list_im要用全局变量
-文件保存在当前目录的screenshot文件夹下面，如果没有这个文件夹需要加一个
-多个截图放在imgs文件夹里，需要建一个*
+
+注意:
+1.这里数组list_im要用全局变量
+2.文件保存在当前目录的screenshot文件夹下面，如果没有这个文件夹需要加一个
+3.多个截图放在imgs文件夹里，需要建一个
